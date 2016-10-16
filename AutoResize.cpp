@@ -1,4 +1,4 @@
-#include "autoresize.h"
+#include "AutoResize.h"
 #include <QLabel>
 #include <QMapIterator>
 #include <QObject>
