@@ -1,0 +1,2 @@
+# AutoResize
+QT AutoResize
